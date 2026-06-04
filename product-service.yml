@@ -1,2 +1,0 @@
-server: port: 8082 message:
-  value: Welcome Product Service
