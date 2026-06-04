@@ -1,5 +1,5 @@
 server:
-  port: 8888
+  port: 8881
 
 spring:
   application:
@@ -9,5 +9,5 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com-khagesh:khagesh-java/microservices-config.git
+          uri: https://github.com/khagesh-java/microservices-config.git
           default-label: main
